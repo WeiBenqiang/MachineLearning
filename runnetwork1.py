@@ -1,3 +1,4 @@
+#运行network1
 import mnist_load
 import network1
 training_data,validation_data,test_data = mnist_load.load_data_wrapper()
